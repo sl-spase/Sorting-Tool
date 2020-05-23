@@ -32,7 +32,7 @@ Sorted data: -2 1 1 1 33 4 42<br>
 java SortingTool -sortingType natural -dataType **line**<br>
 Total lines: 3<br>
 Sorted data:<br>
-1                 1<br>
+1      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           1<br>
 1 -2   33 4<br>
 42<br>
 
@@ -57,6 +57,6 @@ Total words: 7.<br>
 java SortingTool -sortingType byCount -dataType **line**<br>
 Here we suppose 42 appears double<br>
 Total lines: 4.<br>
-1            1: 1 time(s), 25%<br>
+1     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       1: 1 time(s), 25%<br>
 1 -2   33 4: 1 time(s), 25%<br>
 42: 2 time(s), 50%<br>
