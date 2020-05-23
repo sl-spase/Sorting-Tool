@@ -15,7 +15,7 @@ If -inputFile missing the program **won't stop** until user typed [End-of-Life](
 In this example we save output to file which is located in path provided by -outputFile;<br>
 java SortingTool -sortingType byCount -inputFile data.dat -outputFile out.txt<br>
 
-Some input output example.<br>
+Some input output examples.<br>
 Suppose we have these data as input:<br>
 1 -2 &nbsp;&nbsp;&nbsp;  33 4<br>
 42<br>
